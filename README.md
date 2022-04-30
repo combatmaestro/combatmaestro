@@ -9,7 +9,7 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/-shreya-prasad/" target="https://www.linkedin.com/in/adarsh-sahu-java-html-web-developer/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Adarsh, a 22 year old to be software engineer from Odisha, India. 
+👩‍🎓 Hey! I'm Adarsh, a 23 year old  software engineer from Odisha, India. 
 
 :octocat: I have a soft spot for technology and communities  :octocat:! 
 
