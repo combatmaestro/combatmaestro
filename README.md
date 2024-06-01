@@ -9,16 +9,16 @@
    
    ## :wave: About Me 
 <a href="https://twitter.com/shreyacasmalert" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_6-twitter-512.png" height="120px" width="120px" alt="Twitter" align="right"></a><a href="https://www.linkedin.com/in/-shreya-prasad/" target="https://www.linkedin.com/in/adarsh-sahu-java-html-web-developer/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="120px" width="120px" alt="Twitter" align="right"></a>
-👩‍🎓 Hey! I'm Adarsh, a 23 year old  software engineer from Odisha, India. 
+👩‍🎓 Hey! I'm Adarsh, a 25 year old  software engineer from Hyderabad, India. 
 
 :octocat: I have a soft spot for technology and communities  :octocat:! 
 
 <!-- 💖 I’m contributing to [**CircuitVerse**](https://github.com/CircuitVerse) as a front-end developer and project manager.  -->
 
-👩‍💻 Nowadays, I’m learning JavaScript and Spring Boot. I regularly practice DSA questions on [**LeetCode**](https://leetcode.com/combat_maestro/) and always up for quick coding brainstorming sessions! 
+👩‍💻 I have been working as a Software Developer for 4+ years now . I am FullStack developer mostly working with react and nodeJs! 
 
 
-⚡ Fun fact: I have a Mechanical Engineering background, However most of me is a programmer all credits to Google and Stack Overflow :octocat:
+⚡ Fun fact: Mechanical Engineer turned Software Engineer :octocat:
 
 <!-- ✍🏻 I regularly write technical blogs - [Dev.to](https://dev.to/shreyapd06). Currently creating a blog series to simplify Angular concepts!  -->
 
@@ -36,8 +36,11 @@
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap&logoColor=563D7C)
   ![Springboot](https://img.shields.io/badge/-Springboot-333333?style=flat&logo=Springboot-code&logoColor=007ACC)
-  <!-- ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) -->
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) 
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=express)
+  ![mongoDB](https://img.shields.io/badge/-Mongodb-333333?style=flat&logo=mongodb)
+  ![nextJs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=next.js)
   <!-- ![Rails](https://img.shields.io/badge/-Rails-333333?style=flat&logo=ruby)
 - 🛢 &nbsp; -->
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
