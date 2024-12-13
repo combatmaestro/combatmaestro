@@ -18,7 +18,7 @@
 👩‍💻 I have been working as a Software Developer for 4+ years now . I am FullStack developer mostly working with react and nodeJs! 
 
 
-⚡ Fun fact: Mechanical Engineer turned Software Engineer :octocat:
+⚡ Fun fact: Getting high on code and coffee :octocat:
 
 <!-- ✍🏻 I regularly write technical blogs - [Dev.to](https://dev.to/shreyapd06). Currently creating a blog series to simplify Angular concepts!  -->
 
